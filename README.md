@@ -6,6 +6,7 @@
 I'm a software engineer from **Kigali, Rwanda**, passionate about building technology that solves real-world problems.
 
 I specialize in developing **scalable backend systems, AI-powered applications, and data-driven platforms** using Python and modern web technologies. My work spans agriculture, sustainability, analytics, and engineering software, where I enjoy transforming complex ideas into practical digital products.
+
 ---
 
 ## 🚀 About Me
